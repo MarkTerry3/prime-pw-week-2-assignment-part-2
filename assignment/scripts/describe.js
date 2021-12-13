@@ -33,7 +33,7 @@ if (number >= 2) {
 
 //CODE
 /*
-let name = 'Dane';
+let name = 'Dane'; 
 
 if (name === 'Mary') {
   console.log('Hi, Mary!');
