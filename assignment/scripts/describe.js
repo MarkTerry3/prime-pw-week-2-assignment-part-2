@@ -6,7 +6,7 @@
 // (Don't just say 'we console log the variable' -- instead say something like 'we console log 'yes'')
 
 
-// 0. WRITE YOUR DESCRIPTION HERE
+// 0. WRITE YOUR DESCRIPTION HERE 
 // //EXAMPLE. We make a variable called number and set it to 1 as a number.
 // Then we increment the number variable. Number is now 2.
 // We check if number is greater than or equal to 2. 2 is equal to 2, so
@@ -33,7 +33,7 @@ if (number >= 2) {
 
 //CODE
 /*
-let name = 'Dane'; 
+let name = 'Dane';
 
 if (name === 'Mary') {
   console.log('Hi, Mary!');
