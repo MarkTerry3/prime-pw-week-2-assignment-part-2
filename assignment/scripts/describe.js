@@ -6,7 +6,7 @@
 // (Don't just say 'we console log the variable' -- instead say something like 'we console log 'yes'')
 
 
-// 0. WRITE YOUR DESCRIPTION HERE 
+// 0. WRITE YOUR DESCRIPTION HERE
 // //EXAMPLE. We make a variable called number and set it to 1 as a number.
 // Then we increment the number variable. Number is now 2.
 // We check if number is greater than or equal to 2. 2 is equal to 2, so
@@ -74,7 +74,7 @@ console.log(secret)
 //We make an if statement to check if isStudent is an exact match to true and if zip is greater than 8000.
 //isStudent is true but zip is not greater than 8000. in else we check if isStudent is an exact match to false(its not)
 //and if age is less than 30(its not). We move to the next else statement to check if isStudent is an exact match to
-// true, and it is so we console log 'Welcome to prime!' and 'How about the weather?'
+// true, and it is so we console log 'Welcome to prime!'
 
 //CODE
 /*
@@ -131,13 +131,15 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-//FIX - colorOne is supposed to be blue and colorTwo is supposed to be red
+//FIX - colorOne is supposed to be blue and colorTwo is supposed to be red,
+colorTwo in the if statement needs to be purple as well. 
 let colorOne = 'red';
 let colorTwo = 'blue';
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+  colorTwo = 'purple';
 }
 */
 
